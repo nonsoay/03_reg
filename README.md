@@ -1,2 +1,2 @@
 # 03_reg
-This is a regression analysis repo
+This is a regression analysis repository
